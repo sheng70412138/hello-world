@@ -6,3 +6,5 @@ this is the first time that I am doing some changes on branch readme-edits.And I
 and now i do some changes also!!!
 
 the lemontree master are doing something different!!!
+
+引起冲突的修改1111111
